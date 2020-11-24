@@ -4,3 +4,10 @@ alias speedtest="curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/m
 
 # Quickly serve the current directory as HTTP
 alias serve='ruby -run -e httpd . -p 8000' # Or python -m SimpleHTTPServer :)
+
+# Git Aliases
+alias ga="git add"
+alias gc="git commit"
+alias gb="git branch"
+alias gst="git status"
+alias gp="git push"
